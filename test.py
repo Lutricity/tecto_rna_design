@@ -1,6 +1,7 @@
 seq = "CTAGGATATGGAAGATCCTCGGGAACGAGGATCTTCCTAAGTCCTAG"
 ss  = "(((((((..((((((((((((....))))))))))))...)))))))"
 
+
 print(seq[-1])
 print(seq[-2])
 
