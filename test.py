@@ -31,7 +31,8 @@ def tile_motif_in_chip_sequence(chip_seq, chip_ss, seq_1, seq_2, ss_1, ss_2):
         motif_length = len(seq_1)
         if motif_length < len(seq_2):
             motif_length = len(seq_2)
-
+#what's up
+    
 
         if len(helix_5prime) < motif_length:
             break
